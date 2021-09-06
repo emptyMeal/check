@@ -15,7 +15,7 @@ const make = () =>{
     const template = {
         questionNumber : questionNumber,
         questionText : question,
-        option : option, 
+        option : option
     }
 
    console.log(JSON.stringify(template))
